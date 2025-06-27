@@ -17,13 +17,45 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Tienda No. 1 en Santander",
+            "url": ""
+          }
+        },
+        "message_wJkRmb": {
+          "type": "message",
+          "settings": {
+            "text": "Somos profesionales certificados",
+            "url": ""
+          }
+        },
+        "message_gTaAPc": {
+          "type": "message",
+          "settings": {
+            "text": "Envíos a todo Colombia",
+            "url": ""
+          }
+        },
+        "message_b7jJK9": {
+          "type": "message",
+          "settings": {
+            "text": "Tienda No.1 en encordados",
+            "url": ""
+          }
+        },
+        "message_4DYDLX": {
+          "type": "message",
+          "settings": {
+            "text": "Productos 100% originales y legales",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_wJkRmb",
+        "message_gTaAPc",
+        "message_b7jJK9",
+        "message_4DYDLX"
       ],
       "settings": {
         "enable_sticky": false,
