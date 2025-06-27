@@ -315,20 +315,20 @@
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "Somos tu mejor elección"
           }
         },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Tienda Especializada",
             "heading_tag": "h1"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Somos especializados en tenis y deportes de raqueta. Aquí encontrarás productos de alta calidad, asesoría experta y todo lo que necesitas para mejorar tu juego.<br/><br/>Certificados por las entidades más prestigiosas del tenis.</p>"
           }
         }
       },
@@ -342,6 +342,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/4_pw_48df05f5-2b0b-4976-bae2-1acb83049a2d.png",
+        "mobile_image": "shopify://shop_images/4_pw_48df05f5-2b0b-4976-bae2-1acb83049a2d.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -398,7 +400,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/5_pw.jpg",
-            "title": "Promote your products",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
