@@ -36,8 +36,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "title": "Atención al Cliente",
+            "content": "<p>¿Tienes preguntas, necesitas ayuda o quieres asesoría personalizada?<br/><br/>Estamos aquí para acompañarte en cada paso.</p>"
           }
         },
         "discount": {
@@ -49,8 +49,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "title": "Refiere a un amigo",
+            "content": "<p>Obtén una encordada o productos seleccionados al referir a tus amigos. (Aplican terminos y condiciones)</p>"
           }
         },
         "payment": {
@@ -62,8 +62,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "title": "Pagos Seguros",
+            "content": "<p>Compra con tranquilidad: pagos 100% seguros y atención personalizada en cada paso.</p>"
           }
         }
       },
