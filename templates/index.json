@@ -552,30 +552,74 @@
     "press": {
       "type": "press",
       "blocks": {
+        "quote_TBWBTf": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Brahiler Pimiento",
+            "content": "Es una excelente tienda consigue todo lo relacionado al tenis y demás deporte de raqueta, buena atención y asesoría",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
         "16644243327ba53d2a-0": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
+            "author": "Nicolás Vanegas",
+            "content": "Muy buen servicio y también los productos, 100% recomendado.",
             "show_rating": false,
-            "rating": 4
+            "rating": 5
           }
         },
         "16644243327ba53d2a-1": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
+            "author": "Sergio Gómez",
+            "content": "La mejor tienda de tenis de campo en Bucaramanga, muy buenos encordados, tarros de bolas y artículos de muy buena calidad",
             "show_rating": false,
-            "rating": 4
+            "rating": 5
+          }
+        },
+        "quote_LBdVgE": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Juan Agudelo",
+            "content": "Llevo muchos años con los servicios que presta la tienda JJ Tennis Store, la satisfacción en todos sus productos son inmejorables, soy un cliente que siempre vuelve, además los recomiendo con el gremio del mundo de las raquetas.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_KFVQf8": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Andrés Gómez",
+            "content": "Los mejores productos y precision en encordados, excelente asesoría y servicio. Tienen todo lo necesario para Tenis y  Pádel.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_fCgeNN": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Paulo Rodriguez",
+            "content": "Buena atención en entregas oportunas de productos de calidad. Muy recomendable",
+            "show_rating": true,
+            "rating": 5
           }
         }
       },
       "block_order": [
+        "quote_TBWBTf",
         "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
+        "16644243327ba53d2a-1",
+        "quote_LBdVgE",
+        "quote_KFVQf8",
+        "quote_fCgeNN"
       ],
       "settings": {
         "full_width": true,
