@@ -26,8 +26,8 @@
     "privacy-banner": {
       "type": "privacy-banner",
       "settings": {
-        "privacy_bar_title": "Cookie policy",
-        "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.</p>"
+        "privacy_bar_title": "DxT Lab SAS - Cookie Policy",
+        "privacy_bar_content": "<p>Este sitio utiliza cookies propias y de terceros para optimizar tu experiencia de navegación. Puedes aceptar todas, rechazarlas o personalizar tus preferencias. Para más detalles, revisa nuestra Política de Privacidad y Cookies.</p>"
       }
     },
     "cart-drawer": {
