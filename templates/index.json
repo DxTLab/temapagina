@@ -357,7 +357,8 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/8_pw.png",
+            "title": "Tennis",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -378,13 +379,58 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/11_pw.jpg",
+            "title": "Squash",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
             "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_BcgLm3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/5_pw.jpg",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_MgrDc7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/7pw.png",
+            "title": "Padel",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "background": "#000000",
             "background_gradient": "",
@@ -399,8 +445,8 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/5_pw.jpg",
-            "title": "",
+            "image": "shopify://shop_images/9_pw.jpg",
+            "title": "Badminton",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -418,10 +464,33 @@
             "overlay_opacity": 0
           }
         },
+        "image_w6tk8i": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/10_pw.png",
+            "title": "Pickleball",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/encordados.jpg",
+            "title": "Encordados profesionales",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -443,7 +512,10 @@
       "block_order": [
         "item-1",
         "item-2",
+        "image_BcgLm3",
+        "image_MgrDc7",
         "item-3",
+        "image_w6tk8i",
         "29246d34-c6e0-4373-84f6-b15e57736a00"
       ],
       "settings": {
