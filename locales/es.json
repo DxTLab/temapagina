@@ -105,11 +105,11 @@
     "gallery": {
       "close": "Cerrar galería",
       "zoom": "Zoom",
-      "error": "No se puede cargar la imagen"
+      "error": "Error al cargar"
     },
     "price": {
       "regular_price": "Precio normal",
-      "sale_price": "Precio de oferta",
+      "sale_price": "Precio descuento",
       "from_price_html": "Desde {{ price_min }}"
     },
     "quantity": {
