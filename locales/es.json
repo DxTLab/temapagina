@@ -109,7 +109,7 @@
     },
     "price": {
       "regular_price": "Precio normal",
-      "sale_price": "Precio descuento",
+      "sale_price": "Precio con descuento",
       "from_price_html": "Desde {{ price_min }}"
     },
     "quantity": {
