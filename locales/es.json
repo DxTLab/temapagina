@@ -405,7 +405,7 @@
       "code": "Código de tarjeta de regalo",
       "expires_on": "Caduca el: {{ expires_on }}",
       "expired": "Tu tarjeta de regalo ha caducado o se ha desactivado.",
-      "add_to_apple_wallet": "Añadir a Apple Wallet"
+      "add_to_apple_wallet": "Añadir al Apple Wallet"
     },
     "recipient": {
       "checkbox": "Quiero enviar esto como un regalo.",
