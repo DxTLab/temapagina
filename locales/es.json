@@ -33,7 +33,7 @@
       "follow_on": "Síguenos en {{ social_media }}",
       "share": "Compartir",
       "share_on": "Compartir en {{ social_media }}",
-      "share_email": "Compartir por correo electrónico"
+      "share_email": "Enviar por correo electrónico"
     },
     "rating": {
       "info": "{{ rating_value }} de {{ rating_max }} estrellas"
