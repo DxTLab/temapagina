@@ -349,7 +349,7 @@
     },
     "free_shipping_bar": {
       "limit_unreached_html": "¡Gasta {{ remaining_amount }} más y consigue envío gratuito!",
-      "limit_reached_html": "Tu pedido cumple los requisitos de envío gratuito."
+      "limit_reached_html": "Tu pedido califica para envío gratuito. ¡Aprovecha!"
     },
     "shipping_estimator": {
       "estimate_shipping": "Calcular gastos de envío",
