@@ -142,7 +142,7 @@
     "store_availability": {
       "view_store_info": "Ver información de la tienda",
       "check_other_stores": "Comprobar la disponibilidad en otras tiendas",
-      "pick_up_available": "Recogida disponible",
+      "pick_up_available": "Recogida en tienda disponible",
       "pick_up_currently_unavailable": "Recogida no disponible actualmente",
       "pick_up_available_at": "Recogida disponible en {{ location_name }}",
       "pick_up_unavailable_at": "Recogida no disponible actualmente en {{ location_name }}"
