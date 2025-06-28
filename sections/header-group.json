@@ -38,7 +38,7 @@
         "message_b7jJK9": {
           "type": "message",
           "settings": {
-            "text": "Tienda No.1 en encordados",
+            "text": "Máxima autoridad en encordados",
             "url": ""
           }
         },
@@ -59,7 +59,7 @@
       ],
       "settings": {
         "enable_sticky": false,
-        "autoplay": false,
+        "autoplay": true,
         "cycle_speed": 6,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
