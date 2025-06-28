@@ -245,7 +245,7 @@
       "last_name": "Apellidos",
       "email": "Correo electrónico",
       "password": "Contraseña",
-      "accepts_marketing": "Suscríbete a nuestro boletín",
+      "accepts_marketing": "Suscríbete a nuestro newsletter",
       "submit": "Crear cuenta",
       "login": "Iniciar sesión"
     },
