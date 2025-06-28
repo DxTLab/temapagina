@@ -217,7 +217,7 @@
   "customer": {
     "account": {
       "welcome": "Hola, {{first_name}}",
-      "tagline": "Aquí puedes ver todos tus pedidos y gestionar la información de la cuenta.",
+      "tagline": "Aquí puedes ver todos tus pedidos y gestionar la información de tu cuenta.",
       "orders": "Pedidos",
       "addresses": "Direcciones",
       "logout": "Cerrar sesión",
