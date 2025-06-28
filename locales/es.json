@@ -354,7 +354,7 @@
     "shipping_estimator": {
       "estimate_shipping": "Calcular gastos de envío",
       "country": "País",
-      "province": "Provincia",
+      "province": "Departamento",
       "zip": "Código postal",
       "estimate": "Calcular",
       "no_results": "No hacemos envíos a tu dirección.",
