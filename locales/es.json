@@ -126,7 +126,7 @@
       "price_at_each": "a {{ price }} por unidad"
     },
     "rating_count": {
-      "zero": "No hay reseñas",
+      "zero": "Sin reseñas",
       "one": "{{ count }} reseña",
       "other": "{{ count }} reseñas"
     },
