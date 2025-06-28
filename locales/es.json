@@ -237,7 +237,7 @@
       "email": "Correo electrónico",
       "submit": "Recuperar",
       "back_to_login": "Volver a inicio de sesión",
-      "success_message": "Te hemos enviado un correo electrónico con instrucciones para restablecer la contraseña."
+      "success_message": "Te hemos enviado un correo electrónico con las instrucciones para restablecer tu contraseña. Revisa tu carpeta de Spam."
     },
     "register": {
       "title": "Registro",
