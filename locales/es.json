@@ -352,15 +352,15 @@
       "limit_reached_html": "Tu pedido califica para envío gratuito. ¡Aprovecha!"
     },
     "shipping_estimator": {
-      "estimate_shipping": "Calcular gastos de envío",
+      "estimate_shipping": "Estimar gastos de envío",
       "country": "País",
       "province": "Departamento",
       "zip": "Código postal",
       "estimate": "Calcular",
-      "no_results": "No hacemos envíos a tu dirección.",
+      "no_results": "Parece que no podemos hacerte llegar a tu dirección. Contáctate con nosotros para coordinar cómo entregarte lo que necesitas al 3043441298.",
       "one_result": "Hay una tarifa de gastos de envío para tu dirección:",
       "multiple_results": "Hay varias tarifas de gastos de envío para tu dirección:",
-      "error": "Se produjo un error al recuperar las tarifas de gastos de envío:"
+      "error": "Se produjo un error al obtener las tarifas de gastos de envío:"
     }
   },
   "404": {
