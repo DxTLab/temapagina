@@ -447,5 +447,10 @@
         "accept_marketing_checkbox_label": "Sí, envíenme ofertas y notificaciones por correo, pero no sean fastidiosos."
       }
     }
+  },
+  "customer_accounts": {
+    "navigation_and_structure": {
+      "loading_message": "Cargando..."
+    }
   }
 }
