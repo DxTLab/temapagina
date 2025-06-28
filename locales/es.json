@@ -184,10 +184,10 @@
       "all_posts": "Todas las entradas"
     },
     "post": {
-      "written_by": "De {{ author }}",
-      "share": "Compartir",
+      "written_by": "Por {{ author }}",
+      "share": "Comparte",
       "tags": "Etiquetas",
-      "continue_reading": "Puede que te interese"
+      "continue_reading": "Quizás te interese"
     },
     "comments": {
       "leave_comment": "Dejar un comentario",
@@ -196,7 +196,7 @@
       "email": "Correo electrónico",
       "message": "Mensaje",
       "submit": "Enviar",
-      "comment_sent": "Se ha enviado tu comentario. Lo publicaremos después de revisarlo.",
+      "comment_sent": "Tu comentario se ha enviado exitosamente. Lo publicaremos después de su revisión. ¡Gracias!",
       "comment_published": "Se ha publicado tu comentario.",
       "count": {
         "zero": "{{ count }} comentarios",
