@@ -435,7 +435,7 @@
       "review_info": "Este producto ha recibido {{ rating_value }} de {{ rating_max }} estrellas.",
       "leave_review": "Dejar una reseña",
       "review_count": {
-        "zero": "Este producto aún no tiene reseñas.",
+        "zero": "Este producto aún no tiene reseñas. ¡Conviértete en el primero!",
         "one": "Ha recibido {{ count }} reseña.",
         "other": "Ha recibido {{ count }} reseñas."
       }
