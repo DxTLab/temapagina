@@ -314,8 +314,8 @@
   },
   "cart": {
     "general": {
-      "title": "Cesta",
-      "empty": "La cesta está vacía",
+      "title": "Carrito",
+      "empty": "El carrito está vacío",
       "item_count": {
         "one": "{{ count }} artículo",
         "other": "{{ count }} artículos",
