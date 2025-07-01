@@ -281,7 +281,7 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "subheading": "Calida y presición...Haz cada golpe contar con equipo, asesoría y productos diseñado para competir.",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -343,7 +343,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/4_pw_48df05f5-2b0b-4976-bae2-1acb83049a2d.png",
-        "mobile_image": "shopify://shop_images/4_pw_48df05f5-2b0b-4976-bae2-1acb83049a2d.png",
+        "mobile_image": "shopify://shop_images/cel_pw1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -532,13 +532,17 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before/after",
+        "title": "Antes/Después",
         "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "before_image": "shopify://shop_images/Antes.jpg",
+        "before_image_mobile": "shopify://shop_images/Antes.jpg",
+        "after_image": "shopify://shop_images/despues.jpg",
+        "after_image_mobile": "shopify://shop_images/despues.jpg",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
+        "before_text": "Antes",
+        "after_text": "Después",
         "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
@@ -644,8 +648,8 @@
             "horizontal_position_mobile": 24,
             "vertical_position_mobile": 70,
             "icon_width": 32,
-            "title": "Maquina de encordad Dunlop",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "Maquina de encordad Dunlop Diablo 2.0",
+            "content": "<p>Rendimiento confiable a toda prueba.<br/><br/>Equilibra precisión y suavidad en cada encordado. Si prefieres una tensión sólida y consistente sin complicaciones, esta es tu opción. Perfecta para jugadores que valoran <strong>estabilidad y durabilidad</strong>.</p>"
           }
         },
         "item_Uz4qe7": {
@@ -656,8 +660,8 @@
             "horizontal_position_mobile": 30,
             "vertical_position_mobile": 30,
             "icon_width": 32,
-            "title": "Maquina de encordar Head",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "Maquina de encordar Head TE-3300 Pro Tour",
+            "content": "<p>Tecnología de torneo, ahora a tu alcance.<br/><br/>Utilizada en torneos ATP y WTA, es ideal si quieres una encordada rápida, precisa y de alto rendimiento. Perfecta para quienes desean <strong>una sensación de juego profesional desde el primer impacto</strong>.</p><p></p>"
           }
         },
         "1664424434f5b7d0e0-1": {
@@ -668,8 +672,8 @@
             "horizontal_position_mobile": 58,
             "vertical_position_mobile": 14,
             "icon_width": 32,
-            "title": "Maquina de encordar Yonex Precision",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "Maquina de encordar Yonex Precision 5.0",
+            "content": "<p>La precisión japonesa al servicio de tu juego.<br/><br/>Si eres exigente con cada detalle, esta máquina ofrece una encordada milimétrica, silenciosa y suave. Excelente opción para quienes buscan <strong>control absoluto y un toque fino en cada golpe</strong>.</p>"
           }
         },
         "item_3jkqFF": {
@@ -680,8 +684,8 @@
             "horizontal_position_mobile": 30,
             "vertical_position_mobile": 30,
             "icon_width": 32,
-            "title": "Maquina de encordar Wilson Baiardo",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "Maquina de encordar Wilson Baiardo Pro",
+            "content": "<p>La joya de la encordadura profesional.<br/><br/>Máquina oficial de grandes torneos, con tecnología de ajuste automático y máxima precisión. Ideal si buscas una encordada <strong>perfectamente balanceada, con tensión exacta y una experiencia premium</strong>. ¡Tu raqueta como la de los pros!</p>"
           }
         },
         "1664424434f5b7d0e0-2": {
@@ -693,7 +697,7 @@
             "vertical_position_mobile": 75,
             "icon_width": 32,
             "title": "Precision Scan Yonex",
-            "content": "<p>Share useful information about your product features.</p>"
+            "content": "<p>Conoce tu raqueta como nunca antes.<br/><br/>Con esta tecnología de alta precisión, podemos medir con exactitud el <strong>peso total, el balance y el swingweight</strong> de tu raqueta. Esto te permite entender cómo está configurada realmente y compararla con otras, ideal si estás buscando <strong>ajustar tu equipo, emparejar tus raquetas o tomar decisiones más informadas al comprar</strong>.<br/></p>"
           }
         }
       },
@@ -706,8 +710,8 @@
       ],
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/11_pw_8b5d65ff-67b7-47c5-a9d7-8330f9e7ebaf.jpg",
-        "mobile_image": "shopify://shop_images/11_pw_8b5d65ff-67b7-47c5-a9d7-8330f9e7ebaf.jpg",
+        "image": "shopify://shop_images/maqinas_pw.jpg",
+        "mobile_image": "shopify://shop_images/maqinas_pw.jpg",
         "title": "",
         "content": "",
         "button_text": "",
