@@ -141,6 +141,71 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "item_w8npRp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/16.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_3HxULY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/17.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_tNRy7d": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/18.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_M3VKAc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/15.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_hdYMtG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/logo_11.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
@@ -148,7 +213,12 @@
         "1664424046b00c932c-1",
         "1664424046b00c932c-2",
         "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
+        "e4a0ef18-1856-4ddd-83d8-871a60d7acac",
+        "item_w8npRp",
+        "item_3HxULY",
+        "item_tNRy7d",
+        "item_M3VKAc",
+        "item_hdYMtG"
       ],
       "settings": {
         "full_width": false,
@@ -446,7 +516,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/9_pw.jpg",
-            "title": "Badminton",
+            "title": "Bádminton",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -490,7 +560,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/encordados.jpg",
-            "title": "Encordados profesionales",
+            "title": "Encordados Profesionales",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
