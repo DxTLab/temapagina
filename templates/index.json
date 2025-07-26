@@ -1066,8 +1066,8 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "¿Hacen envíos nacionales y facturan?",
+            "content": "<p>Obvio, y por supuesto, que YESSS, claro. Al momento de su pedido, por favor, recuerde dejarnos sus datos para la facturación. Su factura es su documento válido para garantías.</p>"
           }
         },
         "166442457738b23caf-1": {
@@ -1093,11 +1093,11 @@
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "Preguntas frecuentes",
+        "content": "<p>Lo que más nos preguntan...</p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Tratamos de estar disponibles las 24/7, pero también estamos jugando de vez en cuando. Déjanos un mensaje o llámanos directamente al 3043441298.",
+        "answer_time": "Promedio tiiempo de respuesta: 15 minutos",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
