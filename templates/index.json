@@ -603,7 +603,7 @@
         "full_width": true,
         "subheading": "",
         "title": "Antes/Después",
-        "content": "<p>Desliza el botón amarillo hacia la derecha para ver el antes y hacia la izquierda para ver el depués de nuestro cliente.</p>",
+        "content": "<p>Desliza el botón amarillo hacia la derecha para ver el antes y hacia la izquierda para ver el después de uno de nuestros clientes.</p>",
         "before_image": "shopify://shop_images/Antes_3.jpg",
         "before_image_mobile": "shopify://shop_images/Antes_3.jpg",
         "after_image": "shopify://shop_images/despues_3.jpg",
@@ -631,7 +631,7 @@
           "settings": {
             "logo_width": 100,
             "author": "Brahiler Pimiento",
-            "content": "Es una excelente tienda consigue todo lo relacionado al tenis y demás deporte de raqueta, buena atención y asesoría",
+            "content": "Es una excelente tienda consigue todo lo relacionado al tenis y demás deporte de raqueta, buena atención y asesoría.",
             "show_rating": true,
             "rating": 5
           }
@@ -642,7 +642,7 @@
             "logo_width": 100,
             "author": "Nicolás Vanegas",
             "content": "Muy buen servicio y también los productos, 100% recomendado.",
-            "show_rating": false,
+            "show_rating": true,
             "rating": 5
           }
         },
@@ -651,8 +651,8 @@
           "settings": {
             "logo_width": 100,
             "author": "Sergio Gómez",
-            "content": "La mejor tienda de tenis de campo en Bucaramanga, muy buenos encordados, tarros de bolas y artículos de muy buena calidad",
-            "show_rating": false,
+            "content": "La mejor tienda de tenis de campo en Bucaramanga, muy buenos encordados, tarros de bolas y artículos de muy buena calidad.",
+            "show_rating": true,
             "rating": 5
           }
         },
