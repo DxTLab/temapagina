@@ -109,7 +109,7 @@
           "type": "text",
           "settings": {
             "title": "Sobre nosotros",
-            "content": "<p>Operamos legalmente como DXT LAB SAS con NIT: 901702547.</p><p>Pagamos nuestros impuestos y hacemos negocios transparentemente.</p><p>Teléfono: 3043441298</p><p>Correo: dxtlabsas@gmail.com</p>",
+            "content": "<p>Operamos legalmente como DXT LAB SAS con NIT: 901702547.</p><p>Pagamos nuestros impuestos y hacemos negocios transparentemente.</p><p>Teléfono: 3043441298</p><p>Correo: <a href=\"mailto:dxtlabsas@gmail.com\" title=\"mailto:dxtlabsas@gmail.com\">dxtlabsas@gmail.com</a></p>",
             "enable_follow_on_shop": false
           }
         }
