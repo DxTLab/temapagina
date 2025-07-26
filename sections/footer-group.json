@@ -108,9 +108,9 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "Sobre nosotros",
+            "content": "<p>Operamos legalmente como DXT LAB SAS con NIT: 901702547.</p><p>Pagamos nuestros impuestos y hacemos negocios transparentemente.</p><p>Teléfono: 3043441298</p><p>Correo: dxtlabsas@gmail.com</p>",
+            "enable_follow_on_shop": false
           }
         }
       },
