@@ -385,20 +385,20 @@
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "Somos tu mejor elección"
+            "text": "Honestidad y transparencia, siempre."
           }
         },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Tienda Especializada",
+            "text": "Más que una tienda especializada",
             "heading_tag": "h1"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Somos especializados en tenis y deportes de raqueta. Aquí encontrarás productos de alta calidad, asesoría experta y todo lo que necesitas para mejorar tu juego.<br/><br/>Certificados por las entidades más prestigiosas del tenis.</p>"
+            "content": "<p>Somos especializados en tennis de campo y deportes de raqueta. Aquí encontrarás productos de alta calidad, asesoría experta y todo lo que necesitas para mejorar tu juego.<br/><br/><strong>Estamos certificados por las entidades más prestigiosas del tennis.</strong></p>"
           }
         }
       },
