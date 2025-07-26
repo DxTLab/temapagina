@@ -17,7 +17,7 @@
         "free-shipping": {
           "type": "item",
           "settings": {
-            "icon": "picto-box",
+            "icon": "picto-jewelry",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
@@ -43,14 +43,14 @@
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-money",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refiere a un amigo",
-            "content": "<p>Obtén una encordada o productos seleccionados al referir a tus amigos. (Aplican terminos y condiciones)</p>"
+            "title": "¿Profe?",
+            "content": "<p>Para los coach/profes, ofrecemos planes para que generen dinero extra. Escríbanos hoy para más información.</p>"
           }
         },
         "payment": {
