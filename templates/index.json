@@ -323,7 +323,13 @@
       "type": "featured-collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "raqueta-yonex-vcore-ace-260g-aro-98-16x20",
+          "raqueta-yonex-ezone-300g-aro-100-16x19",
+          "raqueta-wilson-rf-300g-aro-98-16x19",
+          "raqueta-tecnifibre-t-fight-300g-aro-98-16x19",
+          "raqueta-babolat-pure-drive-2025-300g-aro-100"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
@@ -331,7 +337,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "¡Los más top!",
+        "title": "¡Las más top!",
         "content": "",
         "link_url": "",
         "link_text": "Ver más",
@@ -927,7 +933,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "",
+        "product": "servicio-encordado",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
