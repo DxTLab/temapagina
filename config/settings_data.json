@@ -43,7 +43,38 @@
     "favicon": "shopify://shop_images/Logo_DXT.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "11813581335429059158": {
+        "type": "shopify://apps/seedgrow-whatsapp-chat/blocks/app-embed/b85b5e45-9cea-417a-9b9e-0aa961ccf3ef",
+        "disabled": false,
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "show_label_on_desktop": true,
+          "show_dismiss_button_desktop": false,
+          "show_label_on_mobile": true,
+          "show_dismiss_button_mobile": false,
+          "show_scroll_bar": false,
+          "show_gdpr_notice": false,
+          "use_click_to_chat": true,
+          "widget_label_text": "Escríbenos para asesoría",
+          "widget_text": "Iniciar conversación",
+          "description": "Selecciona con quién deseas asesoría hoy por WhatsApp",
+          "response_text": "A veces estamos encordando, pero normalmente respondemos de inmediato.",
+          "gdpr_text": "Por favor, acepta nuestra política de privacidad antes de iniciar una conversación.",
+          "background_color": "#1a1a1a",
+          "text_color": "#ffffff",
+          "position": "right",
+          "label_width": 155,
+          "scroll_bar_height": 500,
+          "icon_size": 50,
+          "distance_left": 30,
+          "distance_right": 30,
+          "distance_bottom": 30
+        }
+      }
+    }
   },
   "presets": {
     "Sound": {
