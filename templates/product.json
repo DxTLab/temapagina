@@ -87,7 +87,7 @@
           "settings": {
             "button_label": "¿Necesitas ayuda? Escríbenos",
             "button_style": "round",
-            "background_color": "#2DB742",
+            "background_color": "#2db742",
             "text_color": "#ffffff"
           }
         }
@@ -135,7 +135,7 @@
         "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "You may also like",
+        "title": "También te puede interesar",
         "content": "",
         "background": "",
         "background_gradient": "",
