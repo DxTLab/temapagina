@@ -327,11 +327,14 @@
       "settings": {
         "collection": "",
         "products": [
-          "raqueta-yonex-vcore-ace-260g-aro-98-16x20",
           "raqueta-yonex-ezone-300g-aro-100-16x19",
           "raqueta-wilson-rf-300g-aro-98-16x19",
           "raqueta-tecnifibre-t-fight-300g-aro-98-16x19",
-          "raqueta-babolat-pure-drive-2025-300g-aro-100"
+          "raqueta-babolat-pure-drive-2025-300g-aro-100",
+          "raqueta-head-boom-mpl-270g-aro-100-16x19",
+          "raqueta-tecnifibre-tfight-azul-300g-grip-2-aro-100-16x19",
+          "raqueta-wilson-ultra-100-300g-aro-100-16x19",
+          "raqueta-head-extreme-pro-2025-305g-aro-98-16x19"
         ],
         "full_width": true,
         "stack_products": false,
