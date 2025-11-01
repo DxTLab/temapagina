@@ -257,6 +257,7 @@
           "type": "collection",
           "settings": {
             "collection": "frontpage",
+            "image": "shopify://shop_images/headr.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -270,7 +271,8 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "ropa",
+            "image": "shopify://shop_images/18_d341b3b4-73c4-4d13-a293-87b9db48921a.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -284,7 +286,8 @@
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "bolas-y-accesorios",
+            "image": "shopify://shop_images/32.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -310,7 +313,7 @@
         "subheading": "",
         "title": "Conoce nuestros productos",
         "content": "",
-        "link_url": "",
+        "link_url": "shopify://collections/ropa",
         "link_text": "Conocer más",
         "background": "",
         "background_gradient": "",
