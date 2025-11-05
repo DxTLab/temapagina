@@ -718,6 +718,32 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_X9GcYF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ykUjEF": {
+          "type": "heading",
+          "settings": {
+            "text": "Máquinas que encontrarás en nuestras tiendas",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_ykUjEF"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "hot-spots": {
       "type": "hot-spots",
       "blocks": {
@@ -1135,6 +1161,7 @@
     "media-grid",
     "before-after-image",
     "press",
+    "rich_text_X9GcYF",
     "hot-spots",
     "multiple-images-with-text",
     "featured-product",
