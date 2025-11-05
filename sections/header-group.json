@@ -73,7 +73,7 @@
       "type": "header",
       "settings": {
         "enable_sticky": true,
-        "hide_on_scroll": true,
+        "hide_on_scroll": false,
         "logo": "shopify://shop_images/Logo_DXT1-Photoroom.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
@@ -82,7 +82,7 @@
         "secondary_menu": "",
         "menu_open_trigger": "hover",
         "opening_from": "bottom",
-        "layout": "logo_left_navigation_center",
+        "layout": "logo_center_navigation_inline",
         "show_social_media": true,
         "show_locale_selector": true,
         "show_country_selector": true,
