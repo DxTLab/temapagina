@@ -253,14 +253,13 @@
     "collection-list": {
       "type": "collection-list",
       "blocks": {
-        "collection-1": {
+        "collection_dfJCUt": {
           "type": "collection",
           "settings": {
             "collection": "frontpage",
-            "image": "shopify://shop_images/headr.jpg",
             "subheading": "",
             "title": "",
-            "url": "",
+            "url": "shopify://collections/frontpage",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
@@ -272,7 +271,7 @@
           "type": "collection",
           "settings": {
             "collection": "ropa",
-            "image": "shopify://shop_images/18_d341b3b4-73c4-4d13-a293-87b9db48921a.jpg",
+            "image": "shopify://shop_images/35_7340a9e8-e8a1-4d53-899b-4b038a818a82.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -300,7 +299,7 @@
         }
       },
       "block_order": [
-        "collection-1",
+        "collection_dfJCUt",
         "collection-2",
         "collection-3"
       ],
